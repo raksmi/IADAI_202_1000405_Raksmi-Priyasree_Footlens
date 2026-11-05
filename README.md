@@ -240,7 +240,6 @@ scikit-learn>=1.4
 | CRS name | Artificial Intelligence |
 | Course name | Mathematics for AI-II |
 | School name | `Jain Vidyalaya IB World School` |
-| GitHub repository | `<repository URL>` |
-| Live web app | `<Streamlit Cloud URL>` |
+
 
 
