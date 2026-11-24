@@ -27,7 +27,7 @@ An interactive Streamlit dashboard that explores how player injuries relate to t
 13. [Deployment instructions (Streamlit Cloud)](#13-deployment-instructions-streamlit-cloud)
 14. [Limitations and responsible interpretation](#14-limitations-and-responsible-interpretation)
 15. [Possible improvements](#15-possible-improvements)
-16. [Author and submission details](#16-author-and-submission-details)
+16. [Submission details](#16-author-and-submission-details)
 
 ---
 
@@ -231,7 +231,7 @@ scikit-learn>=1.4
 - Cross-validate the model and test variants that exclude `Avg GD Before`.
 - Add automated tests, accessibility checks and user testing with real analysts.
 
-## 14. Author and submission details
+## 14. Submission details
 
 | Field | Detail |
 |---|---|
